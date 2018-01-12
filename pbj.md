@@ -1,4 +1,4 @@
-# Nathan's PBJ recipe
+# Shuangdi's PBJ recipe
 1. bread
 2. peanut butter
 3. jelly
